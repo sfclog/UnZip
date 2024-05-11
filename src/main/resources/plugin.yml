@@ -1,0 +1,4 @@
+name: UnZip
+version: '${project.version}'
+main: sfclog.unzip.UnZip
+api-version: '1.20'
